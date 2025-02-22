@@ -1,0 +1,6 @@
+[submodule "illustella-backend"]
+	path = illustella-backend
+	url = https://github.com/merx88/illustella-backend.git
+[submodule "illustella-frontend"]
+	path = illustella-frontend
+	url = https://github.com/merx88/illustella-frontend.git
